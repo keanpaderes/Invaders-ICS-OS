@@ -1,0 +1,33 @@
+*********************************************************************************
+*   .___ ___________   _________  ________  _____________________  _________    *
+*   |   |\      \   \ /   /  _  \ \______ \ \_   _____/\______   \/   _____/    *
+*   |   |/   |   \   Y   /  /_\  \ |    |  \ |    __)_  |       _/\_____  \     *
+*   |   /    |    \     /    |    \|    `   \|        \ |    |   \/        \    *
+*   |___\____|__  /\___/\____|__  /_______  /_______  / |____|_  /_______  /    *
+*               \/              \/        \/        \/         \/        \/     *
+*********************************************************************************
+                    AN ASCII SPACE INVADERS CLONE FOR ICS-OS
+*********************************************************************************
+
+        INSTALLATION:
+        1. Copy the tar.gz file into the ics-os source 
+	     contrib dir and extract within.
+           $tar xzvf spaceinv.tar.gz
+           $cd spaceinv
+
+        2. Make and install.
+           $make
+           $make install
+
+        2. Perform the steps to install ics-os.
+           $cd ../..
+           $sudo make install
+
+        3. In the QEMU emulator, go to the apps
+            folder and run spaceinv.exe inside ics-os
+           $cd apps
+           $spaceinv.exe
+
+        4. Enjoy playing the game!
+
+*********************************************************************************

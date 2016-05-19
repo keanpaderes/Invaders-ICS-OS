@@ -1,0 +1,34 @@
+*********************************************************************************
+*   .___ ___________   _________  ________  _____________________  _________    *
+*   |   |\      \   \ /   /  _  \ \______ \ \_   _____/\______   \/   _____/    *
+*   |   |/   |   \   Y   /  /_\  \ |    |  \ |    __)_  |       _/\_____  \     *
+*   |   /    |    \     /    |    \|    `   \|        \ |    |   \/        \    *
+*   |___\____|__  /\___/\____|__  /_______  /_______  / |____|_  /_______  /    *
+*               \/              \/        \/        \/         \/        \/     *
+*********************************************************************************
+                    AN ASCII SPACE INVADERS CLONE FOR ICS-OS
+*********************************************************************************
+
+    GOAL:
+        * Defeat all the viruses coming for your OS!
+        * Avoid the errors that the viruses throw at your ship!
+
+    CHARACTERS:
+        * 'A' - the player ship, shoots lasers to kill viruses!
+        * 'M' - enemy virus, easy to kill, but watch out for
+                    error lasers!
+        * 'O' - shielded virus, a bit harder to kill, watch out
+                    for them!
+
+    INSTRUCTIONS:
+        * Press 'a' to move left and 'd' to move right.
+        * Press 'm' to fire.
+        * Press 'x' to end the game.
+
+    DISCLAIMER:
+        * Original Source Code is made by ForwardSlashReality for
+            Windows C environment. (Link: http://goo.gl/2kldA4)
+        * Space Invaders is copyrighted by Taito Corporation and is
+            licensed to Midway Games. All rights are reserved to them.
+
+*********************************************************************************
